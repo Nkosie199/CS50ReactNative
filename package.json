@@ -1,0 +1,22 @@
+{
+  "name": "cs50reactnative",
+  "version": "0.0.0",
+  "description": "Nkosie199/CS50ReactNative @ Nov 29, 2019",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "devDependencies": {
+    "babel-preset-expo": "^7.0.0",
+    "schedule": "^0.4.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.9.6",
+    "expo": "^37.0.12",
+    "exponent": "^14.0.0",
+    "prop-types": "^15.6.0",
+    "react": "16.8.0",
+    "react-dom": "^16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.2.tar.gz",
+    "react-native-web": "^0.12.2"
+  }
+}
